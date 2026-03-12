@@ -1,5 +1,5 @@
 {
-  "name": "MedSum: NLP Medical Report Summarizer",
+  "name": "PROGNOLYZE: NLP Medical Report Summarizer",
   "description": "A professional tool that uses advanced NLP to extract key medical terms and summarize complex reports into actionable insights.",
   "requestFramePermissions": []
 }
